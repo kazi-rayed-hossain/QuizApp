@@ -24,6 +24,7 @@ class WelcomeScreen extends StatelessWidget {
                         color: Colors.white, fontWeight: FontWeight.bold),
                   ),
                   Text("Enter your informations below"),
+                  // spacer eta diye kono kichur allinment koi bosbe ta thik kore
                   Spacer(), // 1/6
                   TextField(
                     decoration: InputDecoration(
