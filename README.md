@@ -13,4 +13,5 @@ This is a complete functional quiz app that works on both Android and iOS device
 
 <!-- ![Preview](/gif.gif) -->
 
+
 ![App UI](/ui.png)
